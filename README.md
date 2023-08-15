@@ -1,7 +1,6 @@
 ## Salve, padawans! Eu sou o Joelton Gomes 👋
 
 - 🌱 Estudante de Java
-- 😄 Pronouns: ele/dele
 
 ###
 
