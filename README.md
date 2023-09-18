@@ -1,6 +1,8 @@
-## Salve, padawans! Eu sou o Joelton Gomes 👋
+## Salve, padawans! 👋
 
-- 🌱 Estudante de Java
+Olá! Meu nome é Joelton e sou um estudante em transição de carreira, passando da área de contabilidade para a tecnologia. Focado em me especializar no desenvolvimento backend e bastante animado em buscar novos desafios.
+
+- 🌱 Estudante de Java, Python e Dart
 
 ###
 
