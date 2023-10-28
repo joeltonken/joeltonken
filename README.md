@@ -2,7 +2,7 @@
 
 Olá! Meu nome é Joelton e sou um estudante em transição de carreira, passando da área de contabilidade para a tecnologia. Focado em me especializar no desenvolvimento backend e bastante animado em buscar novos desafios.
 
-- 🌱 Estudante de Java, Python e Dart
+- 🌱 Estudante de Java e Python
 
 ###
 
@@ -17,6 +17,8 @@ Olá! Meu nome é Joelton e sou um estudante em transição de carreira, passand
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="35" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"  />
+
 </div>
 
 ###
