@@ -1,8 +1,8 @@
 ## Salve, padawans!
 
-Meu nome é Joelton Kennedy e sou um estudante em fase de transição de carreira, passando da área de contabilidade para a tecnologia. Estou focado em me especializar no desenvolvimento backend. :)
+Meu nome é Joelton e sou estudante em fase de transição de carreira, passando da área de contabilidade para a tecnologia. Estou focado em me especializar no desenvolvimento backend. :)
 
-- 🌱 Atualmente estudando Java e Python.
+- 🌱 Atualmente estudando Java, Javascript e Python.
 
 ###
 
