@@ -1,6 +1,9 @@
-## Heeey, padawans!
+## 
+<h1>Heeey, padawans!</h1>
 
-Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, passando da área de contabilidade para tecnologia. Estou focado em me especializar no desenvolvimento backend. :)
+<h3>Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, passando da área de contabilidade para tecnologia. Estou focado em me especializar no desenvolvimento backend. :)</h3>
+
+###
 
 - 🌱 Atualmente estudando Java, Javascript e Python.
 
@@ -49,3 +52,6 @@ Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, pa
 </div>
 
 ###
+
+<div style="text-align:left">
+<p> <img src="https://komarev.com/ghpvc/?username=joeltonken&label=Profile%20views&color=0E0EB4&style=plastic" alt="joeltonken" /> </p></div>
