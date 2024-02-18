@@ -53,5 +53,7 @@
 
 ###
 
-<div style="text-align:left">
-<p> <img src="https://komarev.com/ghpvc/?username=joeltonken&label=Profile%20views&color=0E0EB4&style=plastic" alt="joeltonken" /> </p></div>
+<div align="center">
+<p align="center"><b>Visitantes</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joeltonken}/count.svg" /></p> 
+<br></div>
