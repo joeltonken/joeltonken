@@ -5,7 +5,7 @@
 
 ###
 
-- 🌱 Atualmente estudando Java, Javascript e Python.
+- 🌱 Atualmente estudando Java e Python.
 
 ###
 
