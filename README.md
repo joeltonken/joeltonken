@@ -1,9 +1,8 @@
-## 
-<h1>Heeey, padawans!</h1>
-
-<h3>Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, passando da área de contabilidade para tecnologia. Estou focado em me especializar no desenvolvimento backend. :)</h3>
+<h1 align="center">Heeey, padawans!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Joelton</h1>
 
 ###
+
+Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, passando da área de contabilidade para tecnologia. Estou focado em me especializar no desenvolvimento backend.
 
 - 🌱 Atualmente estudando Java e Python.
 
@@ -23,7 +22,8 @@
   <img align="center" height="38" width="40" src="https://icon-library.com/images/django-icon/django-icon-0.jpg"  />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Logo do Git"/>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Logo do Docker">
 
 </div>
 
