@@ -2,13 +2,15 @@
 
 ###
 
-Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, passando da área de contabilidade para tecnologia. Estou focado em me especializar no desenvolvimento backend.
-
-- 🌱 Atualmente estudando Java e Python.
+E𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚎𝚖 𝚏𝚊𝚜𝚎 𝚍𝚎 𝚝𝚛𝚊𝚗𝚜𝚒𝚌̧𝚊̃𝚘 𝚍𝚎 𝚌𝚊𝚛𝚛𝚎𝚒𝚛𝚊, 𝚙𝚊𝚜𝚜𝚊𝚗𝚍𝚘 𝚍𝚊 𝚊́𝚛𝚎𝚊 𝚍𝚎 𝚌𝚘𝚗𝚝𝚊𝚋𝚒𝚕𝚒𝚍𝚊𝚍𝚎 𝚙𝚊𝚛𝚊 𝚝𝚎𝚌𝚗𝚘𝚕𝚘𝚐𝚒𝚊. 𝙴𝚜𝚝𝚘𝚞 𝚏𝚘𝚌𝚊𝚍𝚘 𝚎𝚖 𝚖𝚎 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚛 𝚗𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚋𝚊𝚌𝚔𝚎𝚗𝚍. 
 
 ###
 
-<h2 style="text-align:left">Linguagens, Frameworks e Ferramentas:</h2>
+#### :book: Atualmente estudando Java e C#.
+
+###
+
+<h3 style="text-align:left">• Tecnologias utilizadas:</h2>
 
 ###
 
@@ -29,7 +31,7 @@ Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, pa
 
 ###
 
-<h2 style="text-align:left">Onde me encontrar:</h2>
+<h3 style="text-align:left">• Onde me encontrar:</h2>
 
 ###
  
@@ -41,7 +43,7 @@ Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, pa
 
 ### 
 
-<h2 style="text-align:left">Estatísticas</h2>
+<h3 style="text-align:left">• Estatísticas</h2>
 
 ######
 
@@ -53,7 +55,4 @@ Meu nome é Joelton Gomes e sou estudante em fase de transição de carreira, pa
 
 ###
 
-<div align="center">
-<p align="center"><b>Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joeltonken}/count.svg" /></p> 
-<br></div>
+![visitors](https://vbr.nathanchung.dev/badge?page_id=joeltonken.joeltonken&color=0000cf)
