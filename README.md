@@ -1,4 +1,4 @@
-<h1 align="center">Heeey, padawans!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Joelton</h1>
+<h1 align="center">Heey, padawans!<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">,  I'm Joelton</h1>
 
 ###
 
@@ -6,7 +6,7 @@ E𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚎𝚖 𝚏𝚊𝚜𝚎 𝚍𝚎 𝚝𝚛�
 
 ###
 
-#### :book: Atualmente estudando Java, C# e Pascal.
+#### :book: Atualmente estudando Java e C#.
 
 ###
 
