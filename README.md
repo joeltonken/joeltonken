@@ -6,7 +6,7 @@ E𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚎𝚖 𝚏𝚊𝚜𝚎 𝚍𝚎 𝚝𝚛�
 
 ###
 
-#### :book: Atualmente estudando Java e C#.
+#### :book: Atualmente estudando Java, Delphi e C#.
 
 ###
 
@@ -35,9 +35,6 @@ E𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚎𝚖 𝚏𝚊𝚜𝚎 𝚍𝚎 𝚝𝚛�
   </a> 
   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/>
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
   </a> 
   <a href="https://flutter.dev" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
