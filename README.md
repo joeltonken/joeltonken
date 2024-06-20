@@ -10,7 +10,7 @@ E𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚎𝚖 𝚏𝚊𝚜𝚎 𝚍𝚎 𝚝𝚛�
 
 ###
 
-<h3 style="text-align:left">Tecnologias utilizadas:</h2>
+<h3 style="text-align:left">:computer: Tecnologias utilizadas:</h2>
 
 ###
 
@@ -31,7 +31,7 @@ E𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚎𝚖 𝚏𝚊𝚜𝚎 𝚍𝚎 𝚝𝚛�
 
 ###
 
-<h3 style="text-align:left">Onde me encontrar:</h2>
+<h3 style="text-align:left">:earth_americas: Onde me encontrar:</h2>
 
 ###
  
