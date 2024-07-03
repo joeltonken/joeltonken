@@ -6,7 +6,7 @@ E𝚜𝚝𝚞𝚍𝚊𝚗𝚝𝚎 𝚎𝚖 𝚏𝚊𝚜𝚎 𝚍𝚎 𝚝𝚛�
 
 ###
 
-#### :book: Atualmente estudando Java e C#.
+#### :book: Atualmente estudando Java.
 
 ###
 
