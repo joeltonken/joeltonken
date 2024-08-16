@@ -2,9 +2,9 @@
 
 ###
 
-<p align="center">Contador e desenvolvedor. F𝚘𝚌𝚊𝚍𝚘 𝚎𝚖 𝚖𝚎 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚛 𝚗𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚋𝚊𝚌𝚔𝚎𝚗𝚍.</p>
+<p align="center">Contador e desenvolvedor júnior. F𝚘𝚌𝚊𝚍𝚘 𝚎𝚖 𝚖𝚎 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚛 𝚗𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚋𝚊𝚌𝚔𝚎𝚗𝚍.</p>
 
-#### :book: Atualmente estudando Java.
+#### :book: Atualmente estudando e trabalhando com Java e Delphi.
 
 ###
 
