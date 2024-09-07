@@ -2,13 +2,15 @@
 
 ###
 
-<p align="center">Contador e desenvolvedor júnior. F𝚘𝚌𝚊𝚍𝚘 𝚎𝚖 𝚖𝚎 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚛 𝚗𝚘 𝚍𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚒𝚖𝚎𝚗𝚝𝚘 𝚋𝚊𝚌𝚔𝚎𝚗𝚍.</p>
+<p align="center">Contador e desenvolvedor júnior. Focado em me especializar no desenvolvimento backend.</p>
 
 #### :book: Atualmente estudando e trabalhando com Java e Delphi.
 
 ###
 
-<h3 style="text-align:left">:computer: Tecnologias utilizadas:</h2>
+---
+
+<h3 style="text-align:left">:computer: Tecnologias utilizadas:</h3>
 
 ###
 
@@ -28,7 +30,7 @@
 
 ###
 
-<h3 style="text-align:left">:earth_americas: Onde me encontrar:</h2>
+<h3 style="text-align:left">:earth_americas: Onde me encontrar:</h3>
 
 ###
  
@@ -37,9 +39,9 @@
   <a href="https://www.linkedin.com/in/joeltongomes" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-### 
+###
 
-<h3 style="text-align:left">⭐ Estatísticas do Github</h2>
+<h3 style="text-align:left">⭐ Estatísticas do Github</h3>
 
 ######
 
