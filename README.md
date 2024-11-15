@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Contador e desenvolvedor. Focado em me especializar no desenvolvimento backend.</p>
+<p align="center">Contador e desenvolvedor fullstack júnior. Focado em me especializar no desenvolvimento backend.</p>
 
 #### :book: Atualmente estudando e trabalhando com Java e Delphi.
 
